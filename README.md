@@ -1,0 +1,2 @@
+# assets-kauuyh
+static assets
